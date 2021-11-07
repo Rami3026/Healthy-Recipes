@@ -1,0 +1,21 @@
+img{
+
+}
+.description{
+  font-size: 20px
+}
+#cook-time-id {
+  font-weight: bold;
+}
+.ingredients{
+  list-style: square;
+}
+.time.p{
+color: gray;
+}
+.external-link{
+  color: seagreen;
+}
+.h1,.h2,.p,.li{
+font-family:Times New Roman;
+}
